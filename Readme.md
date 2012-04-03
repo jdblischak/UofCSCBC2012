@@ -1,4 +1,4 @@
-# Welcome 
+# What are you looking at? 
 
 **The University of Chicago Software Carpentry Boot Camp 2012**
 

@@ -1,4 +1,4 @@
-# What are you looking at? 
+# welcome merged
 
 **The University of Chicago Software Carpentry Boot Camp 2012**
 

@@ -1,4 +1,4 @@
-# Welcome 
+# Leave and Don't Come Back
 
 **The University of Chicago Software Carpentry Boot Camp 2012**
 
